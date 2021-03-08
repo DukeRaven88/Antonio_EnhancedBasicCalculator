@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Antonio_EnhancedBasicCalculator</string>
+    <string name="basic_calculator" />
+    <string name="percent">percent</string>
+    <string name="operand_2" />
+    <string name="divide" />
+    <string name="_0" />
+    <string name="operand_1" />
+    <string name="addition" />
+    <string name="multiply" />
+    <string name="subtraction" />
+    <string name="the_result_is" />
+    <string name="answer" />
+</resources>
